@@ -1,0 +1,5 @@
+{
+  "name": "My Life in Dots",
+  "description": "A minimalist web app that visually represents a person's life in weeks, months, years, and days as a grid of dots, inspired by iOS design aesthetics.",
+  "requestFramePermissions": []
+}
